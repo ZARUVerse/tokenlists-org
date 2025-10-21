@@ -135,4 +135,11 @@
     "name": "Zerion Explore",
     "homepage": ""
   }
+
+  ,"https://raw.githubusercontent.com/ZARUVerse/ZARUVerse.github.io/main/tokenlist.json": {
+    "name": "ZARUverse Official Token List",
+    "homepage": "https://zaruverse.github.io"
+  }
 }
+
+
